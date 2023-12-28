@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP , Laravel**
 
-- 🤝 I’m looking for help with **Trible**
+- 🤝 I’m looking for help with **My Skill**
 
 - 💬 Ask me about **laravel**
 

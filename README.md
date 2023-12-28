@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning  (laravel)
+- 💬 Ask me about wed development & some $hit....
+- 📫 How to reach me: as You liKe
+- 👯 I’m looking to collaborate on tech Guru . . . 
+
 <!--
 **zinwinhtun/zinwinhtun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

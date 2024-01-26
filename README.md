@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **laravel**
 
-- ⚡ Fun fact **I think i'm shit**
+- ⚡ Fun fact **I think i'm Super Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

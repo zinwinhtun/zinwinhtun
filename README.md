@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zin Win Htun</h1>
 <h3 align="center">A passionate back-end developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **PHP , Laravel**
+- 🌱 I’m currently learning **Backend Development**
 
-- 🤝 I’m looking for help with **My Skill**
+- 🤝 I’m looking for help with **My Knowledge**
 
-- 💬 Ask me about **laravel**
-
-- ⚡ Fun fact **I think i'm Super Man**
+- 💬 Ask me about **something**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
